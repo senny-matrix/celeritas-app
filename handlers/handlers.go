@@ -1,7 +1,6 @@
 package handlers
 
 import (
-	"github.com/CloudyKit/jet/v6"
 	"github.com/senny-matrix/celeritas"
 	"github.com/senny-matrix/myapp/data"
 	"net/http"
